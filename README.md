@@ -67,8 +67,8 @@ Sigue estos pasos para poner en marcha el proyecto:
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/RubenGonzalezSiles94/app-reservas-padel.git
+   cd app-reservas-padel
 
 
 
